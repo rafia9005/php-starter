@@ -1,0 +1,19 @@
+{
+  "name": "php-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafia9005/php-starter.git"
+  },
+  "author": "rafia9006",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafia9005/php-starter/issues"
+  },
+  "homepage": "https://github.com/rafia9005/php-starter#readme"
+}
